@@ -1,6 +1,7 @@
 
 /* Your CSS Code here. */
-.header{
-background-color: black;
-font: white;
+#header{
+    background-color: black;
+    color: white;
+    width: 100%;
 }
