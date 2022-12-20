@@ -3,5 +3,10 @@
 #header{
     background-color: black;
     color: white;
-    width: 100%;
+    width: 156px;
+    box-sizing: border-box;
+    
+}
+tbody{
+    border: 1px solid black;
 }
