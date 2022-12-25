@@ -1,12 +1,7 @@
 
-/* Your CSS Code here. */
-#header{
-    background-color: black;
-    color: white;
-    width: 156px;
-    box-sizing: border-box;
-    
-}
-tbody{
-    border: 1px solid black;
+/* Your CSS Code here.*/
+#total{
+    font-family: monospace;
+    text-align: end;
+    font-weight: bold;
 }
